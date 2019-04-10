@@ -1,0 +1,47 @@
+.bg-dark {
+    background-color: #343a40!important;
+    top: 0px;
+    position: fixed;
+}
+.card {
+  width: 50%;
+
+}
+.title {
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+.usesAnsw {
+  list-style: square;
+}
+.c1{
+  height: 400px;
+  position: relative;
+  top: 18px;
+}
+.c2 {
+  position: relative;
+  left: 550px;
+  bottom: 427px;
+  width: 300px
+}
+.c3 {
+  position: relative;
+  left: 1000px;
+  bottom: 869px;
+  height: 400px;
+}
+#pic2{
+  height: 250px;
+  width: 300px;
+}
+body {
+  background-image: url('https://www.scitecheuropa.eu/wp-content/uploads/2018/06/ST27-McGillU1-image-%C2%A9-iStock-Garsya-696x392.jpg');
+  overflow: hidden;
+  background-repeat:  no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
+  background-size: 1440px 724px;
+  margin: 0px;
+}

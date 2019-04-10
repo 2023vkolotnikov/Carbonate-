@@ -1,0 +1,106 @@
+
+.caco3 {
+  top: 6px;
+  position: relative;
+  border: 2px black solid;
+}
+.use1 {
+  border: 1px black solid;
+  position: relative;
+  top: 5px;
+}
+.use2 {
+  border: 1px black solid;
+  padding-bottom: 0px;
+  position: relative;
+  top: 5px;
+}
+.use3 {
+  border: 1px black solid;
+  padding-bottom: 0px;
+  position: relative;
+  top: 5px;
+}
+#CaCO3 {
+  position: relative;
+  width: 50%;
+  bottom: 100px;
+  left: 400px;
+  color: aqua;
+  background-color: #343a40!important;
+  border-radius: 5px;
+  padding: 10px;
+}
+#food {
+  position: relative;
+  width: 50%;
+  bottom: 100px;
+  left: 400px;
+  color: aqua;
+  background-color: #343a40!important;
+  border-radius: 5px;
+  padding: 10px;
+}
+#CaCO3IMG {
+  position: relative;
+  top: 35px;
+  border-radius: 5px;
+
+
+}
+#foodIMG{
+  position: relative;
+  top: 35px;
+  border-radius: 5px;
+
+}
+#paperIMG {
+  position: relative;
+  top: 50px;
+  left: 1120px;
+  border-radius: 5px;
+
+}
+#production{
+  position: relative;
+  width: 50%;
+  bottom: 150px;
+  left: 5px;
+  color: aqua;
+  background-color: #343a40!important;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#buildingIMG {
+  position: relative;
+  top: 70px;
+  left: 1120px;
+  border-radius: 5px;
+
+}
+#building{
+  position: relative;
+  width: 50%;
+  bottom: 100px;
+  left: 5px;
+  color: aqua;
+  background-color: #343a40!important;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+body {
+  background-image: url('https://images.theconversation.com/files/111907/original/image-20160218-1264-125lytr.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip');
+  background-repeat:  no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 1440px 800px;
+  margin: 0px;
+  height: 100%;
+  color: white;
+}
+.title {
+  text-align: center;
+  color: Indigo;
+}

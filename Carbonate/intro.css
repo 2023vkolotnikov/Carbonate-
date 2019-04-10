@@ -1,0 +1,26 @@
+.card1, .card2{
+  position: relative;
+  left: 165px;
+}
+.card2 {
+  position: absolute;
+  left: 955px;
+  bottom: 493px;
+  height: 480px;
+}
+.card-body2{
+  position: relative;
+  top: 50px;
+}
+body {
+  background-image: url('https://www.yu.edu/sites/default/files/ThinkstockPhotos-658148844.jpg');
+  background-repeat:  no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 1440px 800px;
+  margin: 0px;
+  height: 100%;
+}
+.citations {
+  color: white;
+}
